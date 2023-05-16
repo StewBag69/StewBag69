@@ -6,19 +6,19 @@
   -IT/Programming 
   
   
-  -Science( Specifically Astronomy and Anthropology but overall all of Science           fasinates me )
+    -Science( Specifically Astronomy and Anthropology but overall all of Science           fasinates me )
   
   
-  -Finance/Investing
+      -Finance/Investing
   
   
-  -Firearms/Tactics
+        -Firearms/Tactics
   
   
-  -Skydiving/Climbing
+          -Skydiving/Climbing
   
   
-  -Almost anything that is in-depth and strenuous
+            -Almost anything that is in-depth and strenuous
 
 - 🌱 I’m currently learning
   
