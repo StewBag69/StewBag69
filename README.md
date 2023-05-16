@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @StewBag69
 
-- 👀 I’m interested in; 
+- 👀 I’m interested in
+  
+  
   -IT/Programming 
   
   
@@ -18,7 +20,7 @@
   
   -Almost anything that is in-depth and strenuous
 
-- 🌱 I’m currently learning;
+- 🌱 I’m currently learning
   
   
   -Software Development/Programming at Purdue Global
@@ -29,7 +31,7 @@
   
   -Overall I like to learn anything that can benefit me or significantly improve my     life/knowledge of the game we call life
 
-- 💞️ I’m looking to collaborate on;
+- 💞️ I’m looking to collaborate on
   
   
   -Nothing as of yet as I dont have the skills required to get this kind of             opportunity but I hope to have more than just HTML and basic JS/Python under my     belt in the months and years to come to be able to work with others to create       life changing software
